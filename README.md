@@ -27,6 +27,7 @@ In free time I do astrophotography, some images can be found [here](https://patr
 - [Tondik Web Server](https://github.com/patrick11514/TondikWebServer) - Was my Project at school in **Programming in C++**. It is a simple WebServer, which can serve static files and support more subdomains/hosts.
 - [Family APP](https://github.com/patrick11514/FamilyAPP) - Family app, which I'm currently writing for my family.
 - [AstroCopy](https://github.com/patrick11514/AstroCopy) - Simple tool written in Rust, which helped me with sorting my Astrophotography images from ASIIMG into folders.
+- [Minonka](https://github.com/patrick11514/Minonka) - Discord bot, which I'm currently writing. It is writtend in discord.js and is used for getting statistics from League of Legends API, about your profile, ranks etc..
 
 My other work can be found [here](https://patrick115.eu/projects)
 
