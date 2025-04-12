@@ -31,7 +31,7 @@ In free time I do astrophotography, some images can be found [here](https://patr
 
 My other work can be found [here](https://patrick115.eu/projects)
 
-### 📫 Find me at
+### 📫 Find me on
 
 - [Instagram](https://www.instagram.com/patrikmintel/)
 - [Discord](https://discord.com/users/620266881227423745) or at my [Discord Server](https://discord.patrick115.eu)
