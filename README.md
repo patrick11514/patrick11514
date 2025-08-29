@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Patrik Mintěl, and primarly I'm web developer. I'm currently studying the Bachelor's of Computer Science at the [Faculty of Electrical Engineering and Computer Science](https://www.fei.vsb.cz) at [VSB - Technical University of Ostrava](https://www.vsb.cz).
+I'm Patrik Mintěl, and primarly I'm web developer. I'm currently studying the Masters's of Computer Science at the [Faculty of Electrical Engineering and Computer Science](https://www.fei.vsb.cz) at [VSB - Technical University of Ostrava](https://www.vsb.cz).
 
 ### 🖥️ Technologies i use
 
@@ -28,6 +28,7 @@ In free time I do astrophotography, some images can be found [here](https://patr
 - [Family APP](https://github.com/patrick11514/FamilyAPP) - Family app, which I'm currently writing for my family.
 - [AstroCopy](https://github.com/patrick11514/AstroCopy) - Simple tool written in Rust, which helped me with sorting my Astrophotography images from ASIIMG into folders.
 - [Minonka](https://github.com/patrick11514/Minonka) - Discord bot, which I'm currently writing. It is writtend in discord.js and is used for getting statistics from League of Legends API, about your profile, ranks etc..
+- [WPlaceDownloader](https://gituh.com/patrick11514/WPlaceDownloader) - Simple https://wplace.live canvas downloader. Also In that repo every 3 hours, I create snapshot of the canvas, so then I can make the timelapse from it
 
 My other work can be found [here](https://patrick115.eu/projects)
 
