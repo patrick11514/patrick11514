@@ -21,6 +21,8 @@ In free time I do astrophotography, some images can be found [here](https://patr
 - [SvelteKit API](https://www.npmjs.com/package/@patrick115/sveltekitapi) - Basically I was tired of writing many +server.ts files, so I made something similar to [TRPC](https://trpc.io)
 - [CreateApp](https://www.npmjs.com/package/@patrick115/create-app) - Because I was lazy to do the same thing over and over again, I made a package that does it for me. For Svelte 5 it uses [sv](https://www.npmjs.com/package/sv) under the hood, but it still works.
 
+Also I'm hosting much of all my work on my home server :). It have the Intel N100 with 32GB DDR4 ram, the Raid 5 (with 3x2TB HDDS) resulting in 4TB usable capacity and its running Proxmox :). Some of the apps I migrated to my github org here: https://github.com/Patrik-Homelab
+
 ### 🧱 Projects I made
 
 - [Personal Website](https://github.com/patrick11514/Web) - Is hosted at [patrick115.eu](https://patrick115.eu) and is made with SvelteKit. Currently it is somehow migrated to Svelte 5, but need to rework it.
